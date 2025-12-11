@@ -5,6 +5,8 @@ Foi utilizado o ambiente do Google Colab para a realização dos exercícios, ut
 
 Durante a realização, utilizei o material oferecido pela alura e a documentação oficial do python e utilizei em algumas atividades o auxílio de IA para visualizar diferentes resoluções e verificar otimização
 
+Os exercícos estão na ordem do aprendizado do curso, os problemas mais complexos estão no final da lista
+
 Os conhecimentos desenvolvidos foram, segundo a Alura: 
 Entender comandos básicos da linguagem Python
 Diferenciar os tipos de variáveis
